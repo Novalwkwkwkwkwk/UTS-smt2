@@ -1,0 +1,2 @@
+cetakLinkedlist();
+    // cout << "\n";
